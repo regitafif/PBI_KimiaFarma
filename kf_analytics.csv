@@ -1,0 +1,501 @@
+transaction_id,date,year,month,branch_id,branch_name,kota,provinsi,rating_cabang,customer_name,product_id,product_name,actual_price,discount_percentage,persentase_gross_laba,nett_sales,nett_profit,rating_transaksi
+TRX2484597,5/13/2021,2021,5,96462,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.1,Jesus Gibson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.9
+TRX3182354,9/30/2022,2022,9,41183,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Jaclyn Hill,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,5
+TRX4861015,11/8/2021,2021,11,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.2,Nicole Wilson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.7
+TRX1747393,10/8/2022,2022,10,17469,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,3.9,Suzanne Gutierrez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.7
+TRX1911013,12/4/2022,2022,12,50288,Kimia Farma - Apotek,Ternate,Maluku Utara,4.4,Andrew Dillon,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.7
+TRX3182354,9/30/2022,2022,9,41183,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Jaclyn Hill,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,5
+TRX4062033,4/18/2021,2021,4,49260,Kimia Farma - Apotek,Ambon,Maluku,4.2,Angela Johnson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.8
+TRX7669421,5/24/2021,2021,5,72693,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.7,Scott Evans,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.7
+TRX1148810,3/7/2021,2021,3,73569,Kimia Farma - Apotek,Madiun,Jawa Timur,4.4,Julie Wilson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,5
+TRX3670814,6/7/2021,2021,6,40222,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.1,Christopher Wood,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.6
+TRX7246418,5/17/2021,2021,5,82832,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.7,Christopher Callahan,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.9
+TRX2428067,9/21/2020,2020,9,76170,Kimia Farma - Apotek,Tangerang,Banten,4.3,Marc Fischer,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.6
+TRX5299472,1/14/2023,2023,1,59449,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.1,Katherine Young,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.9
+TRX4742164,11/10/2023,2023,11,21930,Kimia Farma - Apotek,Solok,Sumatera Barat,4.9,David Bowers,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.6
+TRX6870218,8/23/2021,2021,8,47927,Kimia Farma - Apotek,Jambi,Jambi,4.7,Nicole Hayes,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,5
+TRX1937686,6/8/2021,2021,6,27840,Kimia Farma - Apotek,Denpasar,Bali,4.3,Allison Allen,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.4
+TRX6016673,12/26/2021,2021,12,41131,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4.8,Jasmin Wood,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.2
+TRX3182354,9/30/2022,2022,9,41183,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Jaclyn Hill,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,5
+TRX4840961,3/10/2021,2021,3,51463,Kimia Farma - Apotek,Ternate,Maluku Utara,4.4,Robin Simpson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.8
+TRX9462816,7/20/2021,2021,7,12560,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.4,Kyle Williams,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.6
+TRX3678735,5/23/2021,2021,5,36256,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.1,Oscar Valdez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.6
+TRX7450599,9/23/2020,2020,9,86667,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.6,Benjamin Johnson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.7
+TRX2780415,8/13/2022,2022,8,66525,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.7,Benjamin Mills,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.3
+TRX1038605,12/3/2023,2023,12,25432,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.2,Tanya Lawson,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.2
+TRX9843596,10/1/2022,2022,10,36256,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.1,Morgan Torres,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3
+TRX4093521,12/28/2021,2021,12,47927,Kimia Farma - Apotek,Jambi,Jambi,4.7,William Medina,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.2
+TRX1152024,9/5/2020,2020,9,35930,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.1,Autumn Barry,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.5
+TRX4662458,4/27/2020,2020,4,29922,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,3.9,Sydney Gutierrez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,3.2
+TRX1054883,5/1/2022,2022,5,60481,Kimia Farma - Apotek,Pekanbaru,Riau,4.1,Andrew Clark,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.04,30,491520,147456,4.5
+TRX8185934,12/4/2020,2020,12,21247,Kimia Farma - Apotek,Karawang,Jawa Barat,4.7,Alvin Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4
+TRX3768434,6/20/2020,2020,6,97507,Kimia Farma - Apotek,Pekanbaru,Riau,4.1,Teresa Bailey,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.8
+TRX3089835,6/20/2023,2023,6,63103,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,5,Ronald Mcfarland,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.7
+TRX2767622,12/26/2023,2023,12,61804,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.4,Lisa Beck,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.2
+TRX5729924,1/19/2022,2022,1,59496,Kimia Farma - Apotek,Surabaya,Jawa Timur,3.9,Peter Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.3
+TRX5211035,8/3/2021,2021,8,19017,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,5,Stephen Watts,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.4
+TRX4321074,2/3/2020,2020,2,95971,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.2,Cynthia Freeman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.7
+TRX1770536,4/27/2022,2022,4,35955,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.2,Ryan Sawyer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.5
+TRX4295640,11/3/2023,2023,11,99409,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,James Payne,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.7
+TRX3153586,1/18/2021,2021,1,93702,Kimia Farma - Apotek,Jayapura,Papua,4.3,Samantha Ryan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.3
+TRX7884507,6/2/2023,2023,6,43007,Kimia Farma - Apotek,Ciamis,Jawa Barat,4,Christopher Ellis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.9
+TRX4108295,5/22/2021,2021,5,41081,Kimia Farma - Apotek,Pekanbaru,Riau,4.2,Adam Stark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.5
+TRX9322519,2/6/2020,2020,2,90214,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.2,Mrs. Janet Bishop MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.5
+TRX2183434,1/27/2022,2022,1,61835,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.9,Martin Bright,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.2
+TRX9391198,11/28/2022,2022,11,35836,Kimia Farma - Apotek,Malang,Jawa Timur,4.5,Joshua Sandoval,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.7
+TRX7353078,3/13/2021,2021,3,82315,Kimia Farma - Apotek,Bogor,Jawa Barat,4.6,Veronica Franklin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.1
+TRX1160498,5/8/2022,2022,5,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,Jennifer Glover,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.9
+TRX5636254,12/7/2022,2022,12,12333,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.6,Reginald Moran,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.7
+TRX7353078,3/13/2021,2021,3,82315,Kimia Farma - Apotek,Bogor,Jawa Barat,4.6,Veronica Franklin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.1
+TRX4786178,6/21/2020,2020,6,14756,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Kimberly Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.8
+TRX5958563,5/25/2021,2021,5,61880,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4,Andrew Clark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.9
+TRX3816770,2/7/2023,2023,2,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.1,Michelle Butler,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.8
+TRX7587559,12/7/2020,2020,12,61835,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.9,Laura Roberts,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.1
+TRX1507305,9/7/2021,2021,9,73814,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.7,David Phillips,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,4.2
+TRX9477213,8/13/2022,2022,8,80557,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Lindsay Phillips,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.12,10,5632,563,3.4
+TRX5109342,1/21/2023,2023,1,40540,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.7,Clarence Wilson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.7
+TRX6168434,12/31/2021,2021,12,20382,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.2,Michelle Mccall,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,5
+TRX9250431,10/21/2021,2021,10,12027,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.8,Amber Haley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.1
+TRX2788296,9/27/2023,2023,9,78631,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.3,Margaret Salazar,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4
+TRX9314073,9/12/2020,2020,9,17567,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.9,Billy Calhoun,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.3
+TRX1258508,6/28/2021,2021,6,68908,Kimia Farma - Apotek,Jayapura,Papua,4.5,Katrina Michael,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4
+TRX2716639,5/7/2020,2020,5,80673,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.6,Kyle Kim,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.3
+TRX9190116,10/19/2021,2021,10,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.2,Derrick Maldonado,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.8
+TRX9226073,1/31/2020,2020,1,45422,Kimia Farma - Apotek,Ternate,Maluku Utara,3.9,Nicole Moreno,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.7
+TRX3285480,6/30/2023,2023,6,12369,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Cassandra Ross DVM,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.4
+TRX7652323,8/9/2020,2020,8,55568,Kimia Farma - Apotek,Medan,Sumatera Utara,4.9,Sabrina Parks DVM,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.5
+TRX8618380,2/2/2022,2022,2,49927,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.1,Mark Allison,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.5
+TRX3285480,6/30/2023,2023,6,12369,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Cassandra Ross DVM,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.4
+TRX7961250,10/20/2023,2023,10,59220,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.2,Nathaniel Meyer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.9
+TRX8808385,7/6/2021,2021,7,28123,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.9,Kenneth Wade,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.5
+TRX8472471,12/18/2023,2023,12,26671,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.1,Lisa Allen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.8
+TRX7928893,12/19/2023,2023,12,61880,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4,Dr. Emily Chavez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.2
+TRX4938398,11/12/2022,2022,11,35964,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.3,Daniel Jenkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.5
+TRX9226073,1/31/2020,2020,1,45422,Kimia Farma - Apotek,Ternate,Maluku Utara,3.9,Nicole Moreno,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.7
+TRX5828614,5/20/2021,2021,5,44632,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.5,Melissa Young,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.7
+TRX3990267,11/21/2023,2023,11,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4,Christopher Adams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.7
+TRX4832485,10/9/2022,2022,10,40120,Kimia Farma - Apotek,Jayapura,Papua,3.9,Donald Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.3
+TRX6148977,9/19/2021,2021,9,88832,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.2,John Humphrey,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.7
+TRX6190513,7/18/2023,2023,7,14433,Kimia Farma - Apotek,Gorontalo,Gorontalo,4,Brenda Jackson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.5
+TRX4940125,11/26/2023,2023,11,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,Dawn Roberts,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.4
+TRX2578498,4/17/2020,2020,4,23145,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.3,Amanda Thompson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.5
+TRX8808385,7/6/2021,2021,7,28123,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.9,Kenneth Wade,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.5
+TRX5155958,6/26/2021,2021,6,34844,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,4.1,Renee King,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,3.1
+TRX4940125,11/26/2023,2023,11,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,Dawn Roberts,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.08,10,5888,589,4.4
+TRX7210129,11/18/2023,2023,11,16158,Kimia Farma - Apotek,Subang,Jawa Barat,5,Teresa Harmon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.6
+TRX4397413,10/7/2021,2021,10,13775,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,5,Victoria Gibson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.2
+TRX7503911,10/30/2020,2020,10,37402,Kimia Farma - Apotek,Bekasi,Jawa Barat,3.9,Dr. Janet Dalton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,3
+TRX7551357,11/25/2023,2023,11,85287,Kimia Farma - Apotek,Sorong,Papua Barat,4.9,Brandon Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.9
+TRX1075141,6/5/2022,2022,6,33006,Kimia Farma - Apotek,Karawang,Jawa Barat,4.7,Joshua Conley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,3.5
+TRX2785944,5/27/2021,2021,5,82380,Kimia Farma - Apotek,Solok,Sumatera Barat,4.4,Max Castro,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.1
+TRX8018652,1/29/2020,2020,1,66525,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.7,John Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,3.6
+TRX4526159,6/22/2020,2020,6,30539,Kimia Farma - Apotek,Kuningan,Jawa Barat,4.4,Jack Rogers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.1
+TRX8996894,4/11/2022,2022,4,69575,Kimia Farma - Apotek,Garut,Jawa Barat,4.2,Arthur Ward,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.5
+TRX8018652,1/29/2020,2020,1,66525,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.7,John Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,3.6
+TRX7071697,8/4/2023,2023,8,12991,Kimia Farma - Apotek,Garut,Jawa Barat,3.9,Kristen Osborne,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,3.8
+TRX9549056,10/16/2020,2020,10,49584,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.6,Ryan Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,3.9
+TRX4104167,11/21/2020,2020,11,29203,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.3,Jessica Meyers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.1
+TRX3751463,8/21/2022,2022,8,27679,Kimia Farma - Apotek,Batam,Kepulauan Riau,4,Martin Lee,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.2
+TRX8996894,4/11/2022,2022,4,69575,Kimia Farma - Apotek,Garut,Jawa Barat,4.2,Arthur Ward,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.04,10,6144,614,4.5
+TRX6347654,4/18/2020,2020,4,18983,Kimia Farma - Apotek,Solok,Sumatera Barat,4.8,Joel Chavez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,3.7
+TRX2737565,10/7/2023,2023,10,26671,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.1,Chase Moore,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,3.7
+TRX1175521,7/12/2022,2022,7,59607,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.3,Javier Lewis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.1
+TRX5200917,11/14/2023,2023,11,60036,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.9,Robert Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.3
+TRX4497449,6/2/2022,2022,6,74030,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.5,Paul Hall,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.7
+TRX8095236,7/10/2020,2020,7,16040,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Jonathan Thomas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,3.7
+TRX6890081,3/28/2021,2021,3,47503,Kimia Farma - Apotek,Denpasar,Bali,4.1,Corey Campos,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,3.4
+TRX2547704,3/16/2021,2021,3,41085,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,5,Amanda Guerrero,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.5
+TRX7853542,4/5/2021,2021,4,40120,Kimia Farma - Apotek,Jayapura,Papua,3.9,Richard Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.1
+TRX6347654,4/18/2020,2020,4,18983,Kimia Farma - Apotek,Solok,Sumatera Barat,4.8,Joel Chavez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,3.7
+TRX7199681,11/12/2020,2020,11,28401,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.9,Megan Coleman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,3.9
+TRX3306143,8/26/2023,2023,8,45072,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.7,Joseph Clark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.5
+TRX1454178,4/1/2022,2022,4,50270,Kimia Farma - Apotek,Madiun,Jawa Timur,4.5,Angel Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.1
+TRX8408357,8/25/2023,2023,8,25951,Kimia Farma - Apotek,Pekanbaru,Riau,4.5,Thomas Velasquez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,3.4
+TRX3887597,2/1/2020,2020,2,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4,Erin Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,3.5
+TRX3647414,2/19/2023,2023,2,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4,Danielle Ward,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.2
+TRX2763980,10/7/2023,2023,10,54503,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.9,Nicholas Mason,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.2
+TRX6476361,4/10/2020,2020,4,24913,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.2,Reginald Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.6
+TRX3667066,6/6/2023,2023,6,79972,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.7,Andrew Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0,10,6400,640,4.6
+TRX3099569,11/7/2023,2023,11,39499,Kimia Farma - Apotek,Denpasar,Bali,4.5,Randy Mitchell,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.4
+TRX8863807,8/21/2022,2022,8,15917,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.8,Kevin Arellano,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4.7
+TRX2573363,9/16/2023,2023,9,18306,Kimia Farma - Apotek,Manado,Sulawesi Utara,5,Scott Black,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4
+TRX2941524,1/13/2022,2022,1,47927,Kimia Farma - Apotek,Jambi,Jambi,4.7,Steve Butler,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3
+TRX9386806,12/19/2023,2023,12,89769,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Mary Wilson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.2
+TRX9128399,4/8/2022,2022,4,28401,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.9,Brittany Weaver,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.7
+TRX6474713,11/10/2022,2022,11,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,5,Angela Cohen,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3
+TRX5517013,1/21/2023,2023,1,95273,Kimia Farma - Apotek,Pariaman,Sumatera Barat,3.9,Danielle Drake,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4
+TRX7512247,5/22/2023,2023,5,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.2,David Mueller,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4.4
+TRX9128277,9/15/2021,2021,9,56229,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.8,Pamela Patterson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4
+TRX7568751,6/9/2023,2023,6,66565,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.9,Amy Choi,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4.2
+TRX5895003,6/7/2023,2023,6,65947,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,5,Darlene Long,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4.9
+TRX2966895,3/15/2021,2021,3,50780,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.8,Mikayla Jackson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4.9
+TRX8250645,3/31/2021,2021,3,99281,Kimia Farma - Apotek,Dumai,Riau,4.2,Christopher Ward,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4
+TRX9259867,4/4/2022,2022,4,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Karen Lee,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,5
+TRX9620540,3/10/2021,2021,3,44554,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,5,Sheila Fuller,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4.4
+TRX9128399,4/8/2022,2022,4,28401,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.9,Brittany Weaver,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.7
+TRX7512247,5/22/2023,2023,5,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.2,David Mueller,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4.4
+TRX2941524,1/13/2022,2022,1,47927,Kimia Farma - Apotek,Jambi,Jambi,4.7,Steve Butler,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3
+TRX5836598,1/25/2021,2021,1,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Jeffery Parker,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4
+TRX4915585,2/28/2023,2023,2,84443,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.2,Tyler Henderson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.4
+TRX4360228,4/2/2020,2020,4,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,Richard Salinas,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.7
+TRX6891995,4/22/2021,2021,4,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,5,Christopher Johnson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.4
+TRX9128399,4/8/2022,2022,4,28401,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.9,Brittany Weaver,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.7
+TRX5241843,9/28/2023,2023,9,57196,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.8,Travis Newton,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,4.3
+TRX6288744,9/26/2023,2023,9,94743,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.9,Bobby Weaver,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.12,15,45056,6758,3.1
+TRX1304541,5/19/2021,2021,5,90512,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4,Susan Berry,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.3
+TRX4026067,4/12/2021,2021,4,90512,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4,Joseph Johnson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4
+TRX8670015,10/25/2022,2022,10,56478,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4,Miguel Rowland,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4
+TRX6080462,1/17/2023,2023,1,30842,Kimia Farma - Apotek,Dumai,Riau,4,Richard Escobar,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.2
+TRX6692925,12/9/2021,2021,12,71869,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.1,Lauren Tran,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4.2
+TRX3637172,12/20/2022,2022,12,23145,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.3,Casey House,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4.9
+TRX3556890,9/28/2021,2021,9,82095,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.4,Ms. Susan Rojas,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4.7
+TRX5220798,11/15/2021,2021,11,82894,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.5,Tyler Bryant,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.3
+TRX4079988,9/14/2020,2020,9,14433,Kimia Farma - Apotek,Gorontalo,Gorontalo,4,Allison Cross,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4.2
+TRX3637172,12/20/2022,2022,12,23145,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.3,Casey House,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4.9
+TRX3418160,5/25/2022,2022,5,32463,Kimia Farma - Apotek,Solok,Sumatera Barat,3.9,Brian Hopkins,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4.7
+TRX9800263,7/21/2021,2021,7,29718,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Trevor Valdez,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.8
+TRX3013607,10/16/2023,2023,10,24646,Kimia Farma - Apotek,Kupang,Nusa Tenggara Timur,4.4,Joseph Guerra,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.7
+TRX4570949,3/10/2020,2020,3,89154,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.5,Elizabeth Green,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.2
+TRX8213215,3/25/2021,2021,3,46902,Kimia Farma - Apotek,Cirebon,Jawa Barat,4,Janet Jackson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.7
+TRX3699075,10/18/2022,2022,10,80673,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.6,Alejandro Alvarez,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.9
+TRX9800263,7/21/2021,2021,7,29718,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Trevor Valdez,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.8
+TRX4026067,4/12/2021,2021,4,90512,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4,Joseph Johnson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4
+TRX6729427,8/10/2023,2023,8,21840,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.9,Jennifer Fox,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.4
+TRX6080462,1/17/2023,2023,1,30842,Kimia Farma - Apotek,Dumai,Riau,4,Richard Escobar,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.2
+TRX6729427,8/10/2023,2023,8,21840,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.9,Jennifer Fox,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,3.4
+TRX6009575,12/11/2022,2022,12,22494,Kimia Farma - Apotek,Cianjur,Jawa Barat,4.2,Alan Garcia,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4.3
+TRX8603709,10/4/2021,2021,10,34034,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.9,Kathleen Thompson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.08,15,47104,7066,4.5
+TRX7508405,9/14/2021,2021,9,98837,Kimia Farma - Apotek,Bandung,Jawa Barat,4.6,Tony Lewis DVM,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.5
+TRX4125727,2/24/2023,2023,2,29718,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Barbara Cantrell,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.2
+TRX7978628,10/24/2022,2022,10,90734,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Jessica Rodriguez,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.4
+TRX8371178,2/19/2022,2022,2,22797,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.2,Kathleen Fernandez,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.8
+TRX1213706,7/15/2022,2022,7,99409,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Alexander Brown,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.1
+TRX8017054,10/30/2022,2022,10,51302,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.6,Wendy Moreno,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.5
+TRX2437867,3/5/2023,2023,3,17138,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,3.9,Mark Obrien,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.2
+TRX7165443,1/6/2020,2020,1,92076,Kimia Farma - Apotek,Batam,Kepulauan Riau,4,Matthew Becker,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.5
+TRX7755895,7/13/2021,2021,7,61764,Kimia Farma - Apotek,Kupang,Nusa Tenggara Timur,4.7,Ryan Roth,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.7
+TRX4219788,12/22/2022,2022,12,41012,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,4.2,Ryan Oneill,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.7
+TRX5079535,5/12/2023,2023,5,44632,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.5,James Cross,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.5
+TRX8207162,12/18/2023,2023,12,79725,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.8,Darrell Todd,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.5
+TRX2423376,7/24/2022,2022,7,34489,Kimia Farma - Apotek,Garut,Jawa Barat,4.4,Rickey Gibson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.2
+TRX1970336,3/10/2021,2021,3,39578,Kimia Farma - Apotek,Ambon,Maluku,4.7,Peter Griffith,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.3
+TRX1970336,3/10/2021,2021,3,39578,Kimia Farma - Apotek,Ambon,Maluku,4.7,Peter Griffith,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.3
+TRX4633734,10/25/2020,2020,10,30282,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Gabriela Torres,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.2
+TRX9264061,3/15/2021,2021,3,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,5,Stephen Daniel,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.8
+TRX7553147,5/6/2023,2023,5,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Joseph Berry,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.2
+TRX5333598,6/28/2021,2021,6,24963,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Tammy Schultz,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.6
+TRX2404961,4/14/2022,2022,4,45962,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.4,Victoria White,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.5
+TRX1185035,5/26/2023,2023,5,22526,Kimia Farma - Apotek,Jambi,Jambi,4.3,Tracy Harris,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.5
+TRX2508181,5/27/2021,2021,5,24963,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Alan Clayton,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.2
+TRX1213706,7/15/2022,2022,7,99409,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Alexander Brown,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.1
+TRX1155932,10/17/2022,2022,10,50270,Kimia Farma - Apotek,Madiun,Jawa Timur,4.5,Matthew Medina,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.5
+TRX2175490,3/8/2022,2022,3,12991,Kimia Farma - Apotek,Garut,Jawa Barat,3.9,Karen Swanson,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.5
+TRX2345182,5/6/2023,2023,5,99735,Kimia Farma - Apotek,Banda Aceh,Aceh,4.1,Mark Matthews,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.5
+TRX4858305,7/4/2020,2020,7,57562,Kimia Farma - Apotek,Probolinggo,Jawa Timur,5,Shawn Scott,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,3.3
+TRX5506514,5/24/2023,2023,5,53507,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.5,Allison Martinez,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.4
+TRX1185035,5/26/2023,2023,5,22526,Kimia Farma - Apotek,Jambi,Jambi,4.3,Tracy Harris,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0.04,15,49152,7373,4.5
+TRX4150227,5/18/2023,2023,5,16596,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.1,Mark Kemp,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,4.3
+TRX5137572,8/8/2021,2021,8,39578,Kimia Farma - Apotek,Ambon,Maluku,4.7,Mr. Andrew King,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,4.7
+TRX8603330,5/19/2022,2022,5,44221,Kimia Farma - Apotek,Garut,Jawa Barat,4,Denise Walker,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,3.8
+TRX8446351,5/19/2021,2021,5,14799,Kimia Farma - Apotek,Ambon,Maluku,4.6,Christian Brown,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,4.8
+TRX9714969,3/16/2023,2023,3,30282,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Bryan Reyes,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,4.3
+TRX6680458,11/12/2021,2021,11,20476,Kimia Farma - Apotek,Bogor,Jawa Barat,4.8,Sheila Montgomery,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,3.2
+TRX8603330,5/19/2022,2022,5,44221,Kimia Farma - Apotek,Garut,Jawa Barat,4,Denise Walker,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,3.8
+TRX2706019,4/21/2022,2022,4,80343,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.5,Mr. Andre Fowler,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,4.6
+TRX5037815,2/18/2022,2022,2,99697,Kimia Farma - Apotek,Subang,Jawa Barat,4.8,John Andrews,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,3.4
+TRX4484388,2/22/2023,2023,2,39160,Kimia Farma - Apotek,Garut,Jawa Barat,4.5,Dr. Kelly Walker MD,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,4.2
+TRX3361353,4/25/2021,2021,4,53507,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.5,Kevin Simmons,KF955,"Psycholeptics drugs, Hypnotics and sedatives drugs",51200,0,15,51200,7680,4.4
+TRX4890138,9/23/2020,2020,9,29203,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.3,Matthew Larson,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,4.8
+TRX6981953,8/9/2020,2020,8,28557,Kimia Farma - Apotek,Jambi,Jambi,4.5,Shelby Parker,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,3.5
+TRX7835205,6/28/2020,2020,6,80525,Kimia Farma - Apotek,Subang,Jawa Barat,4.1,Gina Brooks,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,4.5
+TRX4980857,11/18/2022,2022,11,81965,Kimia Farma - Apotek,Denpasar,Bali,3.9,Joan Nelson DDS,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,4.8
+TRX3758009,2/28/2021,2021,2,66717,Kimia Farma - Apotek,Subang,Jawa Barat,4.2,Joshua Howell,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,4.7
+TRX6023597,12/14/2021,2021,12,29115,Kimia Farma - Apotek,Subang,Jawa Barat,4.7,Anna Harris,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,4.9
+TRX2829759,10/26/2023,2023,10,43007,Kimia Farma - Apotek,Ciamis,Jawa Barat,4,Jacob Hall,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,3.5
+TRX3500196,12/6/2023,2023,12,93702,Kimia Farma - Apotek,Jayapura,Papua,4.3,Ashley Johnson,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,3.7
+TRX9895092,12/1/2022,2022,12,47691,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,3.9,Shawn Jackson,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,3.7
+TRX5440201,5/1/2023,2023,5,66565,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.9,Samantha Davis,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,3.4
+TRX8630541,12/4/2022,2022,12,63673,Kimia Farma - Apotek,Sorong,Papua Barat,4.8,Richard Haynes,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.04,15,61440,9216,4.5
+TRX1528133,2/15/2021,2021,2,98300,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Heather Thomas,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4.9
+TRX9561654,10/22/2021,2021,10,59765,Kimia Farma - Apotek,Garut,Jawa Barat,4.1,Anthony Hunt,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4.6
+TRX8652199,6/19/2022,2022,6,61804,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.4,Ricardo Turner,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.5
+TRX3679107,5/8/2020,2020,5,29094,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.6,Chelsea Moore,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.8
+TRX1770190,3/26/2020,2020,3,66113,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Jennifer Fernandez,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.8
+TRX9895512,1/20/2022,2022,1,96742,Kimia Farma - Apotek,Garut,Jawa Barat,4.4,Bobby Paul,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.3
+TRX5484286,3/27/2020,2020,3,90382,Kimia Farma - Apotek,Kuningan,Jawa Barat,4.7,Morgan Downs,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.3
+TRX1850956,4/30/2022,2022,4,34489,Kimia Farma - Apotek,Garut,Jawa Barat,4.4,Aaron Lee,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4.1
+TRX6251475,1/26/2022,2022,1,15586,Kimia Farma - Apotek,Medan,Sumatera Utara,4.6,Manuel Bryan,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4.4
+TRX2572626,5/31/2023,2023,5,27998,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.3,Michael Wolfe,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4.5
+TRX9806904,10/22/2020,2020,10,25432,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.2,Derek Mills,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.6
+TRX1528133,2/15/2021,2021,2,98300,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Heather Thomas,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4.9
+TRX8641038,3/27/2021,2021,3,76351,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.4,Daniel Vazquez,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4
+TRX1753630,8/15/2021,2021,8,92899,Kimia Farma - Apotek,Dumai,Riau,4.7,Amanda Harris,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4.3
+TRX1160002,1/14/2020,2020,1,44604,Kimia Farma - Apotek,Bandung,Jawa Barat,4.2,Kelsey Jones,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.5
+TRX4721514,10/4/2023,2023,10,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.1,Brian Cox,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,4.3
+TRX2671418,11/30/2023,2023,11,97760,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.6,Megan Montgomery,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.4
+TRX3321177,7/19/2020,2020,7,34591,Kimia Farma - Apotek,Jayapura,Papua,4.4,Kiara Gilmore,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.05,10,2945,295,3.1
+TRX7460260,1/14/2023,2023,1,58873,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.8,Julie Berg,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.2
+TRX6197142,5/29/2021,2021,5,21490,Kimia Farma - Apotek,Jayapura,Papua,4.1,Paul Morales,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.3
+TRX7211964,7/31/2022,2022,7,65902,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4.2,Samuel Holmes,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.2
+TRX6745829,5/24/2020,2020,5,98560,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.9,Richard Peters,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.6
+TRX5149866,6/7/2020,2020,6,41750,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Jennifer Miles,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.7
+TRX7998201,4/28/2022,2022,4,22764,Kimia Farma - Apotek,Denpasar,Bali,4.4,Kelly Carpenter,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,5
+TRX8246962,3/27/2023,2023,3,18342,Kimia Farma - Apotek,Garut,Jawa Barat,4.6,Anthony Jimenez,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.9
+TRX4605892,10/9/2021,2021,10,46551,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.8,Kyle Olson,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.7
+TRX8228115,8/21/2020,2020,8,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.7,Geoffrey Lozano,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4
+TRX5047755,8/19/2022,2022,8,49584,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.6,Daniel Perry,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.5
+TRX8324568,5/21/2023,2023,5,65902,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4.2,Benjamin Hill,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4
+TRX8228115,8/21/2020,2020,8,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.7,Geoffrey Lozano,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4
+TRX2830763,1/20/2022,2022,1,56478,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4,Christopher Mckee,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.9
+TRX8806416,9/27/2021,2021,9,28123,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.9,Isabella Nunez,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.8
+TRX5053918,5/30/2021,2021,5,96558,Kimia Farma - Apotek,Denpasar,Bali,4.7,Stephen Carter,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3
+TRX5197172,1/13/2023,2023,1,30242,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.5,Robert Reilly,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.8
+TRX2651825,12/16/2020,2020,12,80557,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Michele Pena MD,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.7
+TRX5769185,1/9/2021,2021,1,95971,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.2,Jeremiah Ortiz,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4
+TRX6124934,3/23/2022,2022,3,42291,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.3,Elizabeth Miller,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.6
+TRX5555444,5/10/2023,2023,5,47178,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.2,Olivia Gonzalez,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.2
+TRX5823853,2/17/2023,2023,2,36721,Kimia Farma - Apotek,Garut,Jawa Barat,4.9,David Adams,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.6
+TRX7432344,9/26/2020,2020,9,18786,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.7,Danielle Smith,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.3
+TRX7902726,11/27/2022,2022,11,97760,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.6,Debbie Hernandez,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.4
+TRX9737667,10/8/2023,2023,10,26671,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.1,Dr. Becky Carr,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.5
+TRX6197142,5/29/2021,2021,5,21490,Kimia Farma - Apotek,Jayapura,Papua,4.1,Paul Morales,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.3
+TRX6197142,5/29/2021,2021,5,21490,Kimia Farma - Apotek,Jayapura,Papua,4.1,Paul Morales,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.3
+TRX6745829,5/24/2020,2020,5,98560,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.9,Richard Peters,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.6
+TRX5053918,5/30/2021,2021,5,96558,Kimia Farma - Apotek,Denpasar,Bali,4.7,Stephen Carter,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3
+TRX9611379,11/4/2021,2021,11,73436,Kimia Farma - Apotek,Jambi,Jambi,4.4,Mrs. Shannon Stone,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.8
+TRX3898622,9/5/2021,2021,9,40313,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.8,Katherine Gutierrez,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.6
+TRX6766488,3/23/2023,2023,3,14495,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.8,Tanner Ellis,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.7
+TRX5555444,5/10/2023,2023,5,47178,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.2,Olivia Gonzalez,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.2
+TRX5053918,5/30/2021,2021,5,96558,Kimia Farma - Apotek,Denpasar,Bali,4.7,Stephen Carter,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3
+TRX5149866,6/7/2020,2020,6,41750,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Jennifer Miles,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.7
+TRX4508446,10/23/2021,2021,10,34991,Kimia Farma - Apotek,Malang,Jawa Timur,4,Olivia Graham,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.8
+TRX8277917,3/30/2020,2020,3,45962,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.4,Andrea Kelley,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.8
+TRX5532230,4/17/2020,2020,4,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4,Meghan Powell,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,3.2
+TRX2670414,2/27/2022,2022,2,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,Anthony Delacruz MD,KF829,Drugs for obstructive airway diseases,76900,0.04,15,73824,11074,4.9
+TRX9238533,5/7/2020,2020,5,99697,Kimia Farma - Apotek,Subang,Jawa Barat,4.8,Peter Allen,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.7
+TRX5353279,11/12/2023,2023,11,49927,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.1,John Mckenzie,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.7
+TRX8512901,10/30/2022,2022,10,53199,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4,Kevin Pope,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,5
+TRX8512901,10/30/2022,2022,10,53199,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4,Kevin Pope,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,5
+TRX6518819,8/17/2021,2021,8,90382,Kimia Farma - Apotek,Kuningan,Jawa Barat,4.7,Margaret Potter,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.8
+TRX1543283,6/25/2023,2023,6,43614,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.5,Cassandra Brooks,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.7
+TRX5844493,1/12/2020,2020,1,64238,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4,Heather Rivera,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.4
+TRX4029835,4/14/2020,2020,4,11999,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.1,Tyler Gomez,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.1
+TRX4180142,12/14/2023,2023,12,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Jessica Barnes,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.1
+TRX3212376,10/3/2022,2022,10,43283,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.6,Joshua Griffith,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.9
+TRX6945543,2/5/2021,2021,2,56229,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.8,Eric Anderson,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.3
+TRX8108741,8/23/2023,2023,8,23156,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,5,David White,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.9
+TRX5940870,4/16/2021,2021,4,35044,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Michelle Romero,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.1
+TRX3701840,9/9/2021,2021,9,94162,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,5,Alexander Kennedy,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.5
+TRX3754225,1/21/2021,2021,1,89772,Kimia Farma - Apotek,Langsa,Aceh,3.9,Mrs. Jamie Barr,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.3
+TRX5844493,1/12/2020,2020,1,64238,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4,Heather Rivera,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.4
+TRX1369477,11/18/2020,2020,11,51302,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.6,Christopher Newman,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.6
+TRX5504873,12/26/2021,2021,12,45642,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.7,Jennifer Hayes,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.9
+TRX5408146,12/26/2020,2020,12,26269,Kimia Farma - Apotek,Garut,Jawa Barat,4,Shane Terrell,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.6
+TRX8423212,5/30/2023,2023,5,34829,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,4.5,Andrew Pitts,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.9
+TRX8222896,11/1/2020,2020,11,69060,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Brandon Preston,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,4.9
+TRX4405962,5/18/2021,2021,5,12560,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.4,Ryan Abbott,KF201,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",78400,0.11,15,69776,10466,3.4
+TRX9729930,4/17/2022,2022,4,59549,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Kenneth Boyer,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.8
+TRX7874895,5/15/2022,2022,5,99182,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.6,Kelly Swanson,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.7
+TRX3365690,9/6/2020,2020,9,98041,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.5,Shelby Liu,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.4
+TRX1052603,3/31/2022,2022,3,58132,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.5,Anthony Butler,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.9
+TRX4621719,12/14/2021,2021,12,40255,Kimia Farma - Apotek,Subang,Jawa Barat,4,Erin Wilson,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.4
+TRX2973800,9/27/2020,2020,9,44554,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,5,Lauren Stark,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.8
+TRX1979166,12/28/2021,2021,12,66717,Kimia Farma - Apotek,Subang,Jawa Barat,4.2,Wesley Smith,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.6
+TRX1359240,11/5/2022,2022,11,30119,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.3,Alan Ryan,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.4
+TRX5888474,4/1/2022,2022,4,71869,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.1,Derek Benson,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.8
+TRX8042532,7/19/2023,2023,7,98345,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.7,Jason Smith,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.6
+TRX5327132,7/13/2023,2023,7,86446,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.1,Andrea Cole,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.2
+TRX3767827,8/19/2021,2021,8,45072,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.7,Dr. Antonio Ramos,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.9
+TRX1810034,12/25/2020,2020,12,23471,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.3,Connie Potter,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.3
+TRX4298116,2/19/2023,2023,2,73925,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.6,Benjamin Norman,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.9
+TRX3726680,2/25/2021,2021,2,12558,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.4,Sandra Johnston,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,5
+TRX9172461,7/27/2022,2022,7,66939,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4,Michelle Holder,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.7
+TRX3466866,3/2/2021,2021,3,73855,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Dana Scott,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.8
+TRX2171173,7/15/2021,2021,7,82832,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.7,Chad Keller,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.5
+TRX3767827,8/19/2021,2021,8,45072,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.7,Dr. Antonio Ramos,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.9
+TRX6331013,5/11/2022,2022,5,30970,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.9,Michael Middleton,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.4
+TRX5361974,3/28/2022,2022,3,59496,Kimia Farma - Apotek,Surabaya,Jawa Timur,3.9,Carla Thompson,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3
+TRX1234696,1/12/2022,2022,1,41131,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4.8,Katrina Wright,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,3.4
+TRX6146554,8/5/2023,2023,8,49927,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.1,Robert Wilson,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.09,10,2821,282,4.5
+TRX3828937,9/23/2020,2020,9,89769,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Victor Krause,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.9
+TRX3712385,10/17/2022,2022,10,55568,Kimia Farma - Apotek,Medan,Sumatera Utara,4.9,Kathleen Garcia,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.9
+TRX3941684,5/7/2021,2021,5,60481,Kimia Farma - Apotek,Pekanbaru,Riau,4.1,Ricardo Stewart,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.2
+TRX7849633,4/26/2022,2022,4,53199,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4,Veronica Brown,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.7
+TRX2905707,9/3/2021,2021,9,58873,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.8,Madison Martinez,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.7
+TRX1995995,2/5/2021,2021,2,13883,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.7,Daryl Lara,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.6
+TRX6154293,10/6/2020,2020,10,30842,Kimia Farma - Apotek,Dumai,Riau,4,Matthew Henson,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.6
+TRX9541660,5/6/2020,2020,5,95261,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.1,Robin Smith,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.5
+TRX9515462,4/20/2022,2022,4,15370,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.1,Mark Lucas,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.5
+TRX7446746,5/2/2020,2020,5,77824,Kimia Farma - Apotek,Banda Aceh,Aceh,4.5,Debbie Watkins,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.6
+TRX3779239,5/2/2022,2022,5,94162,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,5,Kevin Perry,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.6
+TRX8832612,12/6/2020,2020,12,35955,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.2,Renee Harrison,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.8
+TRX3442830,3/31/2022,2022,3,97760,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.6,Jennifer Callahan,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.9
+TRX1652589,11/28/2021,2021,11,86131,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Kristina Garcia,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.3
+TRX9541660,5/6/2020,2020,5,95261,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.1,Robin Smith,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.5
+TRX2802668,9/4/2023,2023,9,65560,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4.7,Andrea Ruiz,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.3
+TRX2017743,7/11/2020,2020,7,31604,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.4,Alexandra Stevens,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,5
+TRX1603530,5/24/2022,2022,5,20476,Kimia Farma - Apotek,Bogor,Jawa Barat,4.8,Jeffrey Soto,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.7
+TRX3712385,10/17/2022,2022,10,55568,Kimia Farma - Apotek,Medan,Sumatera Utara,4.9,Kathleen Garcia,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.9
+TRX8566044,6/5/2020,2020,6,58132,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.5,Michelle Graves,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.1
+TRX1995995,2/5/2021,2021,2,13883,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.7,Daryl Lara,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.6
+TRX8292697,10/9/2022,2022,10,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.7,Marie Fuentes,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.1
+TRX1995533,10/27/2022,2022,10,27679,Kimia Farma - Apotek,Batam,Kepulauan Riau,4,Wyatt Morales,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.4
+TRX9047275,6/5/2020,2020,6,12027,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.8,Gavin Hopkins,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.1
+TRX8635884,11/8/2022,2022,11,29922,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,3.9,John Martin,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.7
+TRX7312485,4/20/2023,2023,4,49864,Kimia Farma - Apotek,Banda Aceh,Aceh,4.3,Diane Rivers,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.2
+TRX3800279,11/27/2023,2023,11,75569,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.1,Stephen Hanson,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.6
+TRX3415695,5/6/2023,2023,5,90726,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.8,Kevin Blake,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.3
+TRX4151920,2/28/2022,2022,2,23647,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.6,Mr. Mark Jackson,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.3
+TRX8538352,5/8/2022,2022,5,17863,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.7,Albert Walsh,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.5
+TRX7495820,9/26/2023,2023,9,57196,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.8,Stacie Morgan,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,3.8
+TRX6154293,10/6/2020,2020,10,30842,Kimia Farma - Apotek,Dumai,Riau,4,Matthew Henson,KF300,"Psycholeptics drugs, Hypnotics and sedatives drugs",136900,0.04,20,131424,26285,4.6
+TRX4965763,8/10/2022,2022,8,93257,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.6,Angela Durham,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.9
+TRX8762769,3/15/2020,2020,3,49584,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.6,Walter Jennings,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.8
+TRX8222532,12/27/2022,2022,12,40467,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.4,Matthew Nelson,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.8
+TRX2687182,9/21/2021,2021,9,48997,Kimia Farma - Apotek,Padang,Sumatera Barat,4.2,Kevin Mcclain,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.8
+TRX3639432,12/13/2023,2023,12,64080,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.1,Colin Sampson,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.4
+TRX3864165,5/21/2021,2021,5,69060,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Colleen Smith,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.1
+TRX2257700,3/7/2023,2023,3,36450,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.5,Steven Hopkins,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.3
+TRX2546301,3/27/2021,2021,3,61835,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.9,Kirk Jones,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.8
+TRX7245605,3/22/2022,2022,3,89769,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,James Davis,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.6
+TRX1413781,5/21/2022,2022,5,17138,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,3.9,Samuel Clark,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4
+TRX9727241,3/6/2021,2021,3,94743,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.9,Daniel Brown,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.8
+TRX2730158,7/19/2020,2020,7,93665,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,5,Michael Patterson,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.1
+TRX4570829,6/4/2022,2022,6,37734,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.6,Brent Barnes,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.6
+TRX7245605,3/22/2022,2022,3,89769,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,James Davis,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.6
+TRX3857102,10/5/2023,2023,10,46902,Kimia Farma - Apotek,Cirebon,Jawa Barat,4,David Vargas,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.7
+TRX3248814,5/27/2021,2021,5,41750,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Angela Parker,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.2
+TRX6142122,4/9/2021,2021,4,56380,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.1,Tiffany Burch,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.5
+TRX7953452,5/27/2023,2023,5,76170,Kimia Farma - Apotek,Tangerang,Banten,4.3,Bradley Williams,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.6
+TRX7531368,12/6/2021,2021,12,48257,Kimia Farma - Apotek,Bandung,Jawa Barat,4.7,James Pierce,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.5
+TRX1133497,10/12/2020,2020,10,30410,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.5,Melissa Manning,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.6
+TRX1133497,10/12/2020,2020,10,30410,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.5,Melissa Manning,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.6
+TRX6189459,5/13/2023,2023,5,66525,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.7,Dustin Hensley,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.2
+TRX3153886,12/13/2022,2022,12,69800,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,4.7,David Miller,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,3.8
+TRX8834559,3/20/2020,2020,3,56380,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.1,Jacob Thomas,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.7
+TRX6783692,6/9/2022,2022,6,92755,Kimia Farma - Apotek,Bekasi,Jawa Barat,5,Darius Perry,KF943,"Other analgesics and antipyretics, Salicylic acid and derivatives",5500,0.02,10,5390,539,4.4
+TRX3666015,4/2/2020,2020,4,70739,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,April Russo,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4.8
+TRX9668793,9/9/2021,2021,9,21659,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4,Rachel Harmon,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.1
+TRX7753684,7/9/2020,2020,7,87344,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.5,John Barber,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4.5
+TRX4709218,7/30/2020,2020,7,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,5,Elizabeth Harris,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4.4
+TRX3434338,9/11/2021,2021,9,63673,Kimia Farma - Apotek,Sorong,Papua Barat,4.8,Mr. Michael Sawyer,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.3
+TRX3201050,7/1/2020,2020,7,55847,Kimia Farma - Apotek,Subang,Jawa Barat,4.3,Michelle Freeman,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.8
+TRX8187898,3/8/2020,2020,3,28401,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.9,Cynthia Torres,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.1
+TRX4066031,4/14/2023,2023,4,98818,Kimia Farma - Apotek,Manado,Sulawesi Utara,4.6,Lisa Ramirez,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.4
+TRX3860715,7/22/2022,2022,7,82315,Kimia Farma - Apotek,Bogor,Jawa Barat,4.6,Sandra Skinner,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.7
+TRX7027445,1/8/2023,2023,1,43283,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.6,Savannah Frank,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.2
+TRX3643620,3/22/2023,2023,3,21247,Kimia Farma - Apotek,Karawang,Jawa Barat,4.7,Paul Perry,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.4
+TRX6264891,6/12/2023,2023,6,26269,Kimia Farma - Apotek,Garut,Jawa Barat,4,Raymond Riley,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4.5
+TRX4336604,6/19/2022,2022,6,39160,Kimia Farma - Apotek,Garut,Jawa Barat,4.5,Adam Carroll,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.4
+TRX3221443,4/15/2022,2022,4,78115,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.7,Daniel Sparks,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4.8
+TRX7892996,7/19/2023,2023,7,71355,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Brandi Jones,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.2
+TRX8251567,3/19/2021,2021,3,41750,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Andrea Marsh,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4.5
+TRX7410288,9/29/2021,2021,9,53959,Kimia Farma - Apotek,Ternate,Maluku Utara,3.9,Troy Jacobs,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4.3
+TRX6377488,5/2/2022,2022,5,98345,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.7,Vanessa Collins,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,5
+TRX8486908,9/29/2020,2020,9,98345,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.7,Nicole Hodges DVM,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.4
+TRX5812104,8/1/2020,2020,8,24789,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.2,Veronica Schultz,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4.1
+TRX8486908,9/29/2020,2020,9,98345,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.7,Nicole Hodges DVM,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,3.4
+TRX8557409,7/27/2021,2021,7,30410,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.5,Kristen Hoffman,KF601,"Psycholeptics drugs, Anxiolytic drugs",512000,0.07,30,476160,142848,4
+TRX4188102,6/27/2021,2021,6,60936,Kimia Farma - Apotek,Subang,Jawa Barat,4.8,Katrina Robertson,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,5
+TRX6198522,6/16/2021,2021,6,98907,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.6,Brittany Huffman,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.6
+TRX6874845,8/27/2020,2020,8,31305,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Tiffany Lewis,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.3
+TRX3097279,7/19/2020,2020,7,36671,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.9,Jacob Tate,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.6
+TRX2483639,9/10/2020,2020,9,17469,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,3.9,Stephanie James,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.4
+TRX4749577,9/18/2023,2023,9,22086,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.2,John Ramirez,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.7
+TRX1099662,12/1/2020,2020,12,11999,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.1,Gabriel Morales,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.5
+TRX8987182,12/25/2020,2020,12,21930,Kimia Farma - Apotek,Solok,Sumatera Barat,4.9,Maria Moore,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.5
+TRX2483639,9/10/2020,2020,9,17469,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,3.9,Stephanie James,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.4
+TRX9110562,8/20/2023,2023,8,53721,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.4,Michelle Miller,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.7
+TRX9518511,6/27/2022,2022,6,68942,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.8,Scott Romero,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.1
+TRX4999621,10/27/2023,2023,10,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.1,Ricardo Hill,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,5
+TRX6874845,8/27/2020,2020,8,31305,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Tiffany Lewis,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.3
+TRX3516715,11/1/2023,2023,11,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.5,Sheri Luna,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.1
+TRX8723685,5/12/2021,2021,5,49927,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.1,Jasmine Vasquez,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.9
+TRX3976072,9/13/2021,2021,9,18306,Kimia Farma - Apotek,Manado,Sulawesi Utara,5,Stephanie Bryant,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.5
+TRX4946275,10/7/2020,2020,10,55568,Kimia Farma - Apotek,Medan,Sumatera Utara,4.9,Cody Brown,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.6
+TRX7971719,11/16/2020,2020,11,28123,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.9,Jesse Garcia,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.4
+TRX9665161,7/16/2020,2020,7,53507,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.5,Taylor Sullivan,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.1
+TRX4999621,10/27/2023,2023,10,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.1,Ricardo Hill,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,5
+TRX7642905,3/8/2021,2021,3,73008,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,5,Alexander Jones,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.3
+TRX7943956,6/19/2020,2020,6,20102,Kimia Farma - Apotek,Pekanbaru,Riau,4.3,Kylie Johnson,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.8
+TRX6045987,8/7/2022,2022,8,84443,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.2,Samantha Yates,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.1
+TRX6794892,3/10/2022,2022,3,67082,Kimia Farma - Apotek,Garut,Jawa Barat,4.7,Katrina Moore,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.9
+TRX2165576,3/8/2020,2020,3,22086,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.2,Anna Francis,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.5
+TRX7975398,4/21/2022,2022,4,73158,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.7,James Robinson,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.6
+TRX7973543,3/8/2023,2023,3,65823,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.9,Randy Kramer,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.3
+TRX7612580,8/13/2021,2021,8,89154,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.5,Belinda Johnson,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.6
+TRX2165576,3/8/2020,2020,3,22086,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.2,Anna Francis,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.5
+TRX8842968,12/16/2023,2023,12,24646,Kimia Farma - Apotek,Kupang,Nusa Tenggara Timur,4.4,Anna Franklin,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.1
+TRX7823904,10/25/2023,2023,10,47901,Kimia Farma - Apotek,Cianjur,Jawa Barat,4.1,Carmen Campbell,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,3.6
+TRX1383259,6/26/2021,2021,6,17567,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.9,Amanda Bass,KF222,"Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances",64000,0.07,15,59520,8928,4.7
+TRX8357816,2/23/2020,2020,2,42273,Kimia Farma - Apotek,Ternate,Maluku Utara,4.2,George Hill,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,4.6
+TRX6354707,8/26/2021,2021,8,29922,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,3.9,Jay Morris,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,4.9
+TRX6151984,9/18/2023,2023,9,89772,Kimia Farma - Apotek,Langsa,Aceh,3.9,Gabriela Schmitt,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,4.7
+TRX2923938,2/7/2022,2022,2,61185,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.4,Timothy Mcclure,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,3.5
+TRX9605193,4/10/2022,2022,4,93401,Kimia Farma - Apotek,Ambon,Maluku,4.5,Eric Lee,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,3.3
+TRX5346030,2/20/2021,2021,2,28844,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.1,Patricia Reynolds,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,3.6
+TRX2694668,9/14/2021,2021,9,20598,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.4,Robert Jacobs,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,4.7
+TRX3225633,11/27/2023,2023,11,75569,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.1,Miguel Williams,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,3.2
+TRX5106709,10/15/2020,2020,10,92899,Kimia Farma - Apotek,Dumai,Riau,4.7,Adam Torres PhD,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,5
+TRX7083852,2/23/2022,2022,2,45962,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.4,Kathryn Hernandez,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,3.5
+TRX5924714,8/14/2023,2023,8,17476,Kimia Farma - Apotek,Jambi,Jambi,4.5,Lisa Brooks,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,3.1
+TRX4369733,4/19/2022,2022,4,22494,Kimia Farma - Apotek,Cianjur,Jawa Barat,4.2,Dustin Christian,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,4.7
+TRX6556214,5/28/2020,2020,5,53721,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.4,Ashley Donaldson,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,4.2
+TRX9558022,7/22/2022,2022,7,27441,Kimia Farma - Apotek,Lhokseumawe,Aceh,5,Anna Frey,KF477,Antihistamines for systemic use,747200,0.12,30,657536,197261,4.5
+TRX9281782,7/15/2020,2020,7,71130,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4,Daniel Cruz,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.4
+TRX1176690,11/12/2022,2022,11,30282,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Courtney Carter,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.8
+TRX4053749,5/17/2021,2021,5,70985,Kimia Farma - Apotek,Manado,Sulawesi Utara,4.3,Anne Martin,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.1
+TRX4863815,1/2/2023,2023,1,34490,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.3,Francisco Stark,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.5
+TRX7138676,2/8/2023,2023,2,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.7,Heather Lee,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4
+TRX2997568,5/8/2022,2022,5,76351,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.4,David Jones,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.7
+TRX2738230,3/20/2023,2023,3,72693,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.7,Riley Savage,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.4
+TRX5257681,11/14/2023,2023,11,36721,Kimia Farma - Apotek,Garut,Jawa Barat,4.9,Mark Richards,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.7
+TRX2232523,9/27/2022,2022,9,13883,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.7,Jacqueline Patrick,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.2
+TRX1823532,3/29/2021,2021,3,18983,Kimia Farma - Apotek,Solok,Sumatera Barat,4.8,Calvin Bowman,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.6
+TRX5178579,11/10/2021,2021,11,98041,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.5,Charles Gonzalez,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.7
+TRX1057115,10/17/2020,2020,10,94905,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.5,David Strong,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.2
+TRX2705507,7/7/2020,2020,7,34991,Kimia Farma - Apotek,Malang,Jawa Timur,4,Keith Acevedo,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.6
+TRX2738230,3/20/2023,2023,3,72693,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.7,Riley Savage,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.4
+TRX1020822,1/18/2021,2021,1,51463,Kimia Farma - Apotek,Ternate,Maluku Utara,4.4,Adam King,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.1
+TRX7597852,9/10/2021,2021,9,78631,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.3,Taylor Brown,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.3
+TRX5169507,7/14/2022,2022,7,36450,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.5,Karen Green,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.5
+TRX4053749,5/17/2021,2021,5,70985,Kimia Farma - Apotek,Manado,Sulawesi Utara,4.3,Anne Martin,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.1
+TRX7767252,3/14/2021,2021,3,14773,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.7,Robert Cruz,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.2
+TRX8349050,3/18/2020,2020,3,61764,Kimia Farma - Apotek,Kupang,Nusa Tenggara Timur,4.7,Tom Bowen,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,4.7
+TRX4863815,1/2/2023,2023,1,34490,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.3,Francisco Stark,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.5
+TRX7558001,6/8/2022,2022,6,12174,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.7,Kyle Barrett,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.7
+TRX3464160,3/11/2022,2022,3,54110,Kimia Farma - Apotek,Solok,Sumatera Barat,4,Kimberly Johnson,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.3
+TRX9891478,7/11/2023,2023,7,99669,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.2,Sarah Morris,KF710,Antihistamines for systemic use,958000,0.04,30,919680,275904,3.5
+TRX9334618,2/7/2022,2022,2,28114,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.8,Kathleen Abbott,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.2
+TRX3160373,1/1/2020,2020,1,67373,Kimia Farma - Apotek,Subang,Jawa Barat,4.6,Karen Lewis,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.3
+TRX9517512,2/11/2022,2022,2,89772,Kimia Farma - Apotek,Langsa,Aceh,3.9,Christopher Hansen,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.1
+TRX1830540,11/7/2022,2022,11,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.2,Shawn Sanders,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.4
+TRX9913671,12/26/2023,2023,12,69575,Kimia Farma - Apotek,Garut,Jawa Barat,4.2,Taylor Martinez,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.9
+TRX5018906,6/3/2022,2022,6,80525,Kimia Farma - Apotek,Subang,Jawa Barat,4.1,Tina Weber,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.7
+TRX1849505,7/24/2022,2022,7,66113,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Kathryn Rodriguez,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.3
+TRX3430293,5/1/2020,2020,5,49520,Kimia Farma - Apotek,Subang,Jawa Barat,4.4,John Anderson,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.5
+TRX4593477,7/21/2021,2021,7,23647,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.6,Gloria James,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.5
+TRX2320075,5/2/2021,2021,5,16339,Kimia Farma - Apotek,Subang,Jawa Barat,4.7,Michael Davis,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.9
+TRX6895072,10/27/2022,2022,10,30539,Kimia Farma - Apotek,Kuningan,Jawa Barat,4.4,Kimberly Smith,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.5
+TRX6672842,1/31/2022,2022,1,20102,Kimia Farma - Apotek,Pekanbaru,Riau,4.3,Rebecca Ellison,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.4
+TRX1564923,7/27/2023,2023,7,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,5,Larry Olson,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4
+TRX6672842,1/31/2022,2022,1,20102,Kimia Farma - Apotek,Pekanbaru,Riau,4.3,Rebecca Ellison,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.4
+TRX1223891,10/17/2022,2022,10,13935,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.5,Mary Wall,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.9
+TRX9104972,8/25/2023,2023,8,62913,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.5,Ms. Penny Wolfe,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.3
+TRX8947421,10/10/2021,2021,10,43007,Kimia Farma - Apotek,Ciamis,Jawa Barat,4,Ashley Brewer,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.1
+TRX9638161,7/18/2020,2020,7,62744,Kimia Farma - Apotek,Sorong,Papua Barat,4.9,Courtney Taylor,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.5
+TRX1223891,10/17/2022,2022,10,13935,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.5,Mary Wall,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.9
+TRX9046517,7/20/2023,2023,7,75909,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4.2,Arthur Green,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,3.8
+TRX5406670,9/29/2020,2020,9,37602,Kimia Farma - Apotek,Garut,Jawa Barat,4.5,Ashley Cobb,KF427,"Other analgesics and antipyretics, Salicylic acid and derivatives",3100,0.13,10,2697,270,4.5
+TRX4823844,8/9/2022,2022,8,25432,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.2,Michael Hill,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4
+TRX8658330,3/13/2020,2020,3,89769,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Jason Francis,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4.8
+TRX4743022,11/16/2021,2021,11,33406,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.7,Christopher Conner,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4.4
+TRX3774549,12/8/2021,2021,12,59449,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.1,Michelle Gomez,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,3.5
+TRX1843007,9/1/2021,2021,9,91503,Kimia Farma - Apotek,Solok,Sumatera Barat,4.1,Karen Reid,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,3.4
+TRX3751547,7/28/2022,2022,7,19169,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.5,Cindy Johnson,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4.8
+TRX8658330,3/13/2020,2020,3,89769,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Jason Francis,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4.8
+TRX4997394,4/24/2022,2022,4,49438,Kimia Farma - Apotek,Ternate,Maluku Utara,4.9,Natasha Jenkins,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4
+TRX3613769,2/12/2021,2021,2,28401,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.9,Michael Nolan,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4.9
+TRX8609617,11/8/2023,2023,11,83742,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.8,John Mitchell,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,3
+TRX7543323,1/19/2020,2020,1,85549,Kimia Farma - Apotek,Ciamis,Jawa Barat,4,Lauren Robertson,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4.3
+TRX1256708,1/17/2021,2021,1,75181,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.4,Amy Pittman,KF818,"Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives",14200,0.06,10,13348,1335,4.1
